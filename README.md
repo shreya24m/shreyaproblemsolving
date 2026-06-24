@@ -25,6 +25,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -34,4 +35,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
