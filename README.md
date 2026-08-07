@@ -27,6 +27,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
@@ -80,4 +82,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
