@@ -49,6 +49,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
@@ -91,4 +92,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
