@@ -2,31 +2,26 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
 
-        vector<int> count(26, 0);
+        unordered_map<char, int> count;
 
         int left = 0;
-        int maxFrequency = 0;
-        int maxLength = 0;
+        int maxFreq = 0;
+        int ans = 0;
 
         for(int index = 0; index < s.size(); index++) {
 
-            count[s[index] - 'A']++;
+            count[s[index]]++;
 
-            maxFrequency = max(maxFrequency,
-                                count[s[index] - 'A']);
+            maxFreq = max(maxFreq, count[s[index]]);
 
-            int windowLength = index - left + 1;
-
-            if(windowLength - maxFrequency > k) {
-
-                count[s[left] - 'A']--;
+            while((index - left + 1) - maxFreq > k) {
+                count[s[left]]--;
                 left++;
             }
 
-            maxLength = max(maxLength,
-                            index - left + 1);
+            ans = max(ans, index - left + 1);
         }
 
-        return maxLength;
+        return ans;
     }
 };
