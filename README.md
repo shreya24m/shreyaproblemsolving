@@ -33,6 +33,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -41,11 +42,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +105,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0015-3sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
