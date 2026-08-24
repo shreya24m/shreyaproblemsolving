@@ -38,6 +38,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
@@ -118,4 +119,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
