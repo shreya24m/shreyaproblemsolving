@@ -63,6 +63,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
