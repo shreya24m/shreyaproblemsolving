@@ -139,6 +139,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -146,6 +147,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -159,6 +161,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
