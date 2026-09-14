@@ -58,6 +58,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0011-container-with-most-water](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
@@ -107,6 +109,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
