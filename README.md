@@ -38,6 +38,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
@@ -55,6 +56,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0001-two-sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
@@ -168,4 +170,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
