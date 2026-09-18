@@ -133,6 +133,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -145,6 +146,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
@@ -153,6 +155,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
@@ -167,6 +170,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
