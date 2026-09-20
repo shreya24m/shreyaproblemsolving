@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
+| [0997-find-the-town-judge](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
+| [0997-find-the-town-judge](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -200,4 +202,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
