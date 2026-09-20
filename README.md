@@ -222,6 +222,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
