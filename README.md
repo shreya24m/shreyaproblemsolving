@@ -32,6 +32,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
@@ -69,6 +70,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
 | [0997-find-the-town-judge](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0997-find-the-town-judge) |
@@ -81,6 +83,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -126,6 +129,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -215,4 +219,12 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
