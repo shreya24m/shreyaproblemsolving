@@ -132,6 +132,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0035-search-insert-position](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -231,4 +232,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
