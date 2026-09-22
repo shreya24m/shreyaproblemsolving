@@ -66,6 +66,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0035-search-insert-position](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
@@ -227,6 +228,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | ------- |
 | [0007-reverse-integer](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
