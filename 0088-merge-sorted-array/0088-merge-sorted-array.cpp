@@ -9,3 +9,4 @@ public:
         sort(nums1.begin(), nums1.end());
     }
 };
+//copy 2nd array to first n then merge it.
