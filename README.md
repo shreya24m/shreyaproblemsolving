@@ -138,6 +138,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0278-first-bad-version) |
@@ -236,6 +237,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0007-reverse-integer](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -245,4 +247,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
