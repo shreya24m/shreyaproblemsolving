@@ -30,6 +30,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0036-valid-sudoku](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0088-merge-sorted-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -240,6 +242,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -253,4 +256,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
