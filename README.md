@@ -48,6 +48,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0424-longest-repeating-character-replacement) |
@@ -238,6 +239,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0009-palindrome-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
