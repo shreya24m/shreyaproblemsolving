@@ -260,4 +260,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
