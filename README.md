@@ -73,6 +73,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0049-group-anagrams](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -177,6 +179,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -209,6 +212,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0100-same-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -268,4 +272,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0182-duplicate-emails](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0196-delete-duplicate-emails) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
