@@ -82,6 +82,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
@@ -95,20 +96,24 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | [0242-valid-anagram](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -276,4 +281,16 @@ This repository contains my solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya24m/shreyaproblemsolving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
